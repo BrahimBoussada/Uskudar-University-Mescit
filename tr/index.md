@@ -78,7 +78,7 @@ import { Sparkles, Smile, ShieldCheck, LibraryBig, Droplets, PersonStanding, Sch
 <p class="boxes-paragraph">Yakındaki tuvalet tesisleri ek konfor sunar, ziyaretçilerin kişisel ihtiyaçlarını rahatça karşılamalarını sağlar.</p>
 </div>
 </div>
-<img class="arrow-down" src="/pages/home/features arrow.svg">
+<img class="arrow-down" src="/pages/home/features arrow.svg" alt="arrow down">
 </section>
 
 <!-- QURAN-->
@@ -87,7 +87,7 @@ import { Sparkles, Smile, ShieldCheck, LibraryBig, Droplets, PersonStanding, Sch
 <h3 class="h3_default_home">Kur'an-ı Kerim'i Çevirilerle Okuyun</h3>
 <p class="p_default2_home">Kur'an-ı Kerim'i Türkçe ve İngilizce tercümesiyle keşfedin. Ayetlerinde rehberlik, rahat ve ilham bulun.</p>
 <div class="ball"></div>
-<img class="quran-img" src="/pages/home/quran2.webp">
+<img class="quran-img" src="/pages/home/quran2.webp" alt="Quran interface">
 <a class="btn2_home hover" href="/quran/index">Bügün Başla</a>
 </section>
 
@@ -96,7 +96,7 @@ import { Sparkles, Smile, ShieldCheck, LibraryBig, Droplets, PersonStanding, Sch
 <section class="prayerhome-download-wrapper">
 <h3 class="h3_default_home">Kuran Çalışması Uygulaması Tanışın</h3>
 <p class="p_default2_home">Kuran Çalışması uygulamamızla Kuran'ı derinlemesine keşfedin. Kapsamlı çalışma ve derinlemesine düşünme için özel olarak tasarlanmış bir dizi özelliğin keyfini çıkarın. Şimdi indirilebilir</p>
-<img class="download-img" src="/pages/home/phone.png">
+<img class="download-img" src="/pages/home/phone.png" alt="Quran mobile app">
 <a class="btn3_home hover" href="/download">Şimdi İndirin</a>
 </section>
 
@@ -205,7 +205,7 @@ import { Sparkles, Smile, ShieldCheck, LibraryBig, Droplets, PersonStanding, Sch
 .prayerhome-hero-img{
   border-radius: 2rem;
   width: 952px;
-  height: auto;
+  height: 605px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -254,7 +254,7 @@ import { Sparkles, Smile, ShieldCheck, LibraryBig, Droplets, PersonStanding, Sch
   font-size: 1rem;
   margin-top: 0.5rem;
   margin-bottom: 1rem;
-    max-width: 720px
+  max-width: 720px
 
 }
 /* FEATURES >>> BOXES */
@@ -306,7 +306,10 @@ html.dark .boxes-container:hover{
 }
 
 .arrow-down{
-  padding: 2rem 0rem 2rem 0rem;}
+  padding: 2rem 0rem 2rem 0rem;
+  width: 36px;
+  height: 170px;
+  }
 
 /* QURAN */
 
@@ -323,7 +326,7 @@ html.dark .boxes-container:hover{
   margin-top: 1rem;
   border-radius: 1rem;
   width: 800px;
-  height: auto;
+  height: 540px;
   border: 1px solid #26DFD9
 }
 
@@ -355,7 +358,7 @@ html.dark .boxes-container:hover{
 .download-img{ 
   margin-top: 1rem;
   width: 560px;
-  height: auto;
+  height: 560px;
   margin-top: 2rem;
 
 }
@@ -424,8 +427,8 @@ border-top-right-radius: 10rem;
 /* LOGO*/
 
 .footer-links-img{
-    width: 10.5rem;
-    height: auto;
+    width: 168px;
+    height: 34px;
 
 }
 
@@ -486,13 +489,13 @@ border-top-right-radius: 10rem;
 
 
 .footer-copyright-logo-1{
-    height: 1.75rem;
-    width: auto ;
+    height: 28px;
+    width: 139px;
 }
 
 .footer-copyright-logo-2{
-    height: 3.5rem;
-    width: auto ;
+    height: 56px;
+    width: 56px;
 }
 
 /* COPYRIGHT TEXTS */

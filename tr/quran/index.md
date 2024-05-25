@@ -3215,8 +3215,8 @@ border-top-right-radius: 10rem;
 /* LOGO*/
 
 .footer-links-img{
-    width: 10.5rem;
-    height: auto;
+    width: 168px;
+    height: 34px;
 
 }
 
@@ -3277,13 +3277,13 @@ border-top-right-radius: 10rem;
 
 
 .footer-copyright-logo-1{
-    height: 1.75rem;
-    width: auto ;
+    height: 28px;
+    width: 139px;
 }
 
 .footer-copyright-logo-2{
-    height: 3.5rem;
-    width: auto ;
+    height: 56px;
+    width: 56px;
 }
 
 /* COPYRIGHT TEXTS */
@@ -3304,7 +3304,6 @@ border-top-right-radius: 10rem;
     font-size: 0.75rem
 
 }
-
 
 
 /* CONTAINER */

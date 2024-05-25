@@ -21,8 +21,8 @@ function nav(): DefaultTheme.NavItem[] {
     { text: "Prayer Time", link: "/prayer-time" },
     { text: "Quran", link: "/quran/" },
     { text: "Download", link: "/download" },
-    { text: "About", link: "/about" },
-    { text: "Contact", link: "/contact" },
+    { text: "About", link: "/about/" },
+    { text: "Contact", link: "/contact/" },
   ];
 }
 

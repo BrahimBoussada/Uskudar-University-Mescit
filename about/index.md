@@ -37,7 +37,7 @@ titleTemplate: false
   flex-direction: column;
   gap: 1.25rem;
   margin-top:0.5rem;
-  text-align: justify;
+  text-align: left;
 }
 
 /* HERO*/

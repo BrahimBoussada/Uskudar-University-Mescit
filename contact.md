@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Contact"
+titleTemplate: false
 ---
 
 <!-- HERO -->

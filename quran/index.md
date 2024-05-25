@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Quran"
+titleTemplate: false
 ---
 
 <script setup>

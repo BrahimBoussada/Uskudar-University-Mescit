@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Prayer Time"
+titleTemplate: false
 ---
 
 <!-- HERO -->

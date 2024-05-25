@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Prayer Spaces"
+titleTemplate: false
 ---
 
 <script setup>

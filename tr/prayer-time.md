@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Namaz Vakti"
+titleTemplate: false
 ---
 
 <!-- HERO -->

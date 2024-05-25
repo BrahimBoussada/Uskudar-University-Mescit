@@ -2,6 +2,8 @@ import { defineConfig } from "vitepress";
 
 export const shared = defineConfig({
   title: " ",
+  description:
+    "Discover prayer spaces across Üsküdar University's campuses. Find detailed information, and get access to Quranic resources. Available in English and Turkish.",
 
   cleanUrls: true,
 

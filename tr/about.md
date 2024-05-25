@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Hakkında"
+titleTemplate: false
 ---
 
 <!-- HERO -->

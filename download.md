@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Download"
+titleTemplate: false
 ---
 
 <script setup>

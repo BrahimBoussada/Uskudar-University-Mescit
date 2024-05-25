@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "İletişim"
+titleTemplate: false
 ---
 
 <!-- HERO -->

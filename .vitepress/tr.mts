@@ -19,7 +19,7 @@ function nav(): DefaultTheme.NavItem[] {
     { text: "Ana Sayfa", link: "/tr/" },
     { text: "Namaz Alanları", link: "/tr/prayer-spaces" },
     { text: "Namaz Vakti", link: "/tr/prayer-time" },
-    { text: "Kuran", link: "/tr/quran/" },
+    { text: "Kur'an", link: "/tr/quran/" },
     { text: "İndir", link: "/tr/download" },
     { text: "Hakkında", link: "/tr/about" },
     { text: "İletişim", link: "/tr/contact" },

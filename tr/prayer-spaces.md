@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Namaz Alanları"
+titleTemplate: false
 ---
 
 <script setup>

@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Üsküdar University Mescit"
+titleTemplate: false
 ---
 
 <script setup>

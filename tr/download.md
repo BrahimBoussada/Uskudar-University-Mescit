@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "İndir"
+titleTemplate: false
 ---
 
 <script setup>

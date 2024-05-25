@@ -24,7 +24,7 @@ titleTemplate: false
 <div class="contact-info">
 <p class="contact-info-icon"></p>
 <p class="contact-info-text">Phone:</p>
-<a class="contact-info-link" href="https://wa.me/901122233344?text=Welcome to Üsküdar University Mescit. Message us with your questions or feedback!">+90 552 557 54 06</a>
+<a class="contact-info-link" href="https://wa.me/901122233344?text=Welcome to Üsküdar University Mescit. Message us with your questions or feedback!">+90 552 554 22 86</a>
 </div>
 </div>
 

@@ -34,16 +34,16 @@ export const shared = defineConfig({
 
     /* socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    ], */
 
     search: {
       provider: "algolia",
       options: {
-        appId: "8J64VVRP8K",
-        apiKey: "a18e2f4cc5665f6602c5631fd868adfd",
+        appId: "DHOVWCRWY1",
+        apiKey: "d814515dc0b06d7891abdb6720493795",
         indexName: "vitepress",
-        locales: { ...zhSearch, ...ptSearch, ...ruSearch },
+        locales: {},
       },
-    }, */
+    },
   },
 });
